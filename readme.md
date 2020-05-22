@@ -8,7 +8,7 @@ Infer the content-type of a HTTP Header for Deno, compatible with Browser. Based
 ## API
 
 ```js
-import { is, typeofrequest, hasBody } from "https://raw.githubusercontent.com/ako-deno/type_is/master/mod.ts";
+import { is, typeofrequest, hasBody } from "https://deno.land/x/type_is/mod.ts";
 
 ```
 
