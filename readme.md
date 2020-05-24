@@ -103,7 +103,7 @@ Returns a Boolean if the given header's `request` has a body, regardless of the
 
 Having a body has no relation to how large the body is (it may be 0 bytes).
 This is similar to how file existence works. If a body does exist, then this
-indicates that there is data to read from the Node.js request stream.
+indicates that there is data to read from the Deno's request stream.
 
 # License
 
