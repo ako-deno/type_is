@@ -2,6 +2,7 @@
 
 [![tag](https://img.shields.io/github/tag/ako-deno/type_is.svg)](https://github.com/ako-deno/type_is/tags)
 ![type_is-ci](https://github.com/ako-deno/type_is/workflows/type_is-ci/badge.svg)
+[![HitCount](http://hits.dwyl.com/ako-deno/type_is.svg)](http://hits.dwyl.com/ako-deno/type_is)
 
 Infer the content-type of a HTTP Header for Deno, compatible with Browser. Based on `https://github.com/jshttp/type-is`.
 
