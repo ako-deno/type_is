@@ -1,4 +1,12 @@
 
+1.0.2 / 2020-07-14
+==================
+
+  * fix test deps version
+  * chore: fixed version deps
+  * add hits
+  * doc: fix doc, should be for Deno
+
 1.0.1 / 2020-05-23
 ==================
 
