@@ -1,3 +1,10 @@
+
+1.0.3  / 2021-04-19
+==================
+
+  * Merge pull request #3 from talentlessguy/master
+  * update dep & fmt
+
 # 1.0.2 / 2020-07-14
 
 - fix test deps version
