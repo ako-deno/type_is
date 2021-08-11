@@ -1,6 +1,6 @@
 import {
   assertStrictEquals,
-} from "https://deno.land/std@0.60.0/testing/asserts.ts";
+} from "https://deno.land/std@0.104.0/testing/asserts.ts";
 import { hasBody, is, typeofrequest } from "../mod.ts";
 
 const { test } = Deno;
